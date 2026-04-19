@@ -9,5 +9,6 @@ public class amar {
         System.out.println("Let's get started with the development of the amar class!");
         int a=20;
         int b=30;
+        int era=30;
     }
 }
