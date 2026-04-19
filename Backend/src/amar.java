@@ -11,6 +11,6 @@ public class amar {
         int b=30;
         int era=30;
         int era=20;
-        
+        System.out.println("The sum of a and b is: " + (a + b));
     }
 }
