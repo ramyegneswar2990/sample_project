@@ -10,5 +10,7 @@ public class amar {
         int a=20;
         int b=30;
         int era=30;
+        int era=20;
+        
     }
 }
